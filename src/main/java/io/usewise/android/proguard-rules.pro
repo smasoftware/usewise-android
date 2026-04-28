@@ -1,0 +1,2 @@
+-keep class io.usewise.android.** { *; }
+-keepclassmembers class io.usewise.android.models.** { *; }
